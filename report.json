@@ -1,12 +1,6 @@
 {
-    "url": "http://paypal-login-security.xyz",
-    "risk_score": 65,
-    "classification": "HIGH RISK",
-    "findings": [
-        "Not using HTTPS",
-        "Suspicious keyword found: login",
-        "Suspicious keyword found: paypal",
-        "Excessive hyphens in domain string",
-        "Suspicious Top-Level Domain (.xyz)"
-    ]
+    "url": "https://web-safe.link/Miwlew_secure_login_page",
+    "risk_score": 0,
+    "classification": "LOW RISK",
+    "findings": []
 }
